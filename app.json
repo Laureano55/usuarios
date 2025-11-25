@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "drivers",
-    "slug": "conductoresfront",
+    "slug": "usuariosfront",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -83,7 +83,7 @@
     "extra": {
       "router": {},
       "eas": {
-        "projectId": "31589927-02b9-4a4f-8cbc-3651b69a35ce"
+        "projectId": "f0dc757b-a9f0-4533-a5e5-6773b89d507c"
       }
     },
     "owner": "laureano55"
